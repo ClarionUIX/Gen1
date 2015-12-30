@@ -1,0 +1,1301 @@
+!Paste this on your local data declaration
+3D Glass - 02IMG        EQUATE(1000)
+3D Glass - 02-WFIMG        EQUATE(1001)
+3D Glass -01IMG        EQUATE(1002)
+3D GlassIMG        EQUATE(1003)
+3D Glass-WFIMG        EQUATE(1004)
+3D-GlassesIMG        EQUATE(1005)
+3D-Shape-01IMG        EQUATE(1006)
+3D-Shape-02IMG        EQUATE(1007)
+10 fingers TapIMG        EQUATE(1008)
+AbacusIMG        EQUATE(1009)
+Abacus-01-WFIMG        EQUATE(1010)
+ABSIMG        EQUATE(1011)
+ABS-WFIMG        EQUATE(1012)
+AcceptIMG        EQUATE(1013)
+AccessIMG        EQUATE(1014)
+AccessibilityIMG        EQUATE(1015)
+Accessibility-WFIMG        EQUATE(1016)
+Access-NewIMG        EQUATE(1017)
+Accounting-01IMG        EQUATE(1018)
+Accounting-01-WFIMG        EQUATE(1019)
+Accounting-02IMG        EQUATE(1020)
+Accounting-02-WFIMG        EQUATE(1021)
+Account-PayableIMG        EQUATE(1022)
+Account-Payable-WFIMG        EQUATE(1023)
+Accounts-BookIMG        EQUATE(1024)
+Accounts-Book-WFIMG        EQUATE(1025)
+Accounts-ReceivableIMG        EQUATE(1026)
+AccupunctureIMG        EQUATE(1027)
+Acorn-NutIMG        EQUATE(1028)
+Acorn-Nut-WFIMG        EQUATE(1029)
+Active Dictionary-WFIMG        EQUATE(1030)
+Active DirectoryIMG        EQUATE(1031)
+Acupuncture-WFIMG        EQUATE(1032)
+Add ComputerIMG        EQUATE(1033)
+Add Computer-WFIMG        EQUATE(1034)
+Add csv-01IMG        EQUATE(1035)
+Add csv-02IMG        EQUATE(1036)
+Add csv-02-WFIMG        EQUATE(1037)
+Add csv-WFIMG        EQUATE(1038)
+Add Id-WFIMG        EQUATE(1039)
+Add reminder-WFIMG        EQUATE(1040)
+Add UserIMG        EQUATE(1041)
+AddIMG        EQUATE(1042)
+Add-EarthIMG        EQUATE(1043)
+AdditionIMG        EQUATE(1044)
+Add-NewIMG        EQUATE(1045)
+Add-Shield(1)IMG        EQUATE(1046)
+Add-ShieldIMG        EQUATE(1047)
+Add-Shield-WFIMG        EQUATE(1048)
+Add-To-CartIMG        EQUATE(1049)
+AdminIMG        EQUATE(1050)
+Adobe-AcrobatIMG        EQUATE(1051)
+Adobe-DreamweaverIMG        EQUATE(1052)
+Adobe-IllustratorIMG        EQUATE(1053)
+Adobe-PDF-Export(1)IMG        EQUATE(1054)
+Adobe-PDF-ExportIMG        EQUATE(1055)
+Adobe-PhotoshopIMG        EQUATE(1056)
+Adress book-01IMG        EQUATE(1057)
+Adress book-02IMG        EQUATE(1058)
+Adress book-03IMG        EQUATE(1059)
+Aero plane-02-WFIMG        EQUATE(1060)
+AeroplaneIMG        EQUATE(1061)
+Aeroplane-01-WFIMG        EQUATE(1062)
+Aerosal can-WFIMG        EQUATE(1063)
+Aerosol CanIMG        EQUATE(1064)
+Aerosol can1-WFIMG        EQUATE(1065)
+Aerosol Can-2IMG        EQUATE(1066)
+Afghan-AfghaniIMG        EQUATE(1067)
+Agreement-01IMG        EQUATE(1068)
+Agreement-02IMG        EQUATE(1069)
+Agreement-WFIMG        EQUATE(1070)
+Agricultural-LoanIMG        EQUATE(1071)
+Agricultural-Loan-WFIMG        EQUATE(1072)
+Aim-01IMG        EQUATE(1073)
+Aim1-WFIMG        EQUATE(1074)
+Aim-02IMG        EQUATE(1075)
+Aim2-WFIMG        EQUATE(1076)
+Aim-03IMG        EQUATE(1077)
+Aim3-WFIMG        EQUATE(1078)
+Aim4-WFIMG        EQUATE(1079)
+Aim-WFIMG        EQUATE(1080)
+Air - 01IMG        EQUATE(1081)
+Air - 02IMG        EQUATE(1082)
+Air bagIMG        EQUATE(1083)
+Air Bag-01-WFIMG        EQUATE(1084)
+Air Bag-02-WFIMG        EQUATE(1085)
+Air ConditionerIMG        EQUATE(1086)
+Air Conditioner-WFIMG        EQUATE(1087)
+Air-01-WFIMG        EQUATE(1088)
+AirBag warningIMG        EQUATE(1089)
+Airbag warning-WFIMG        EQUATE(1090)
+Air-BrushIMG        EQUATE(1091)
+Airplane Mode-WFIMG        EQUATE(1092)
+Alarm - 01IMG        EQUATE(1093)
+Alarm -02IMG        EQUATE(1094)
+Alarm clock-WFIMG        EQUATE(1095)
+AlarmIMG        EQUATE(1096)
+Alarm1-WFIMG        EQUATE(1097)
+Alarm-Clock(1)IMG        EQUATE(1098)
+Alarm-ClockIMG        EQUATE(1099)
+Alarm-WFIMG        EQUATE(1100)
+Albanian-LekIMG        EQUATE(1101)
+Albanian-QindarkaIMG        EQUATE(1102)
+Algerian-DinarIMG        EQUATE(1103)
+Align Left_01-WFIMG        EQUATE(1104)
+Align Left-WFIMG        EQUATE(1105)
+Align-CenterIMG        EQUATE(1106)
+AlignCenter-WFIMG        EQUATE(1107)
+Align-Horizontal-CenIMG        EQUATE(1108)
+Align-JustifyIMG        EQUATE(1109)
+AlignJustify-WFIMG        EQUATE(1110)
+Align-LeftIMG        EQUATE(1111)
+AlignLeft-WFIMG        EQUATE(1112)
+Align-RightIMG        EQUATE(1113)
+AlignRight-WFIMG        EQUATE(1114)
+All software updatesIMG        EQUATE(1115)
+All softwares UpdateIMG        EQUATE(1116)
+Alpha-Blending(1)IMG        EQUATE(1117)
+Alpha-BlendingIMG        EQUATE(1118)
+AmbulanceIMG        EQUATE(1119)
+Ambulance-WFIMG        EQUATE(1120)
+Anchor - 01IMG        EQUATE(1121)
+AnchorIMG        EQUATE(1122)
+Anchor-01IMG        EQUATE(1123)
+Anchor-01-WFIMG        EQUATE(1124)
+Anchor-02IMG        EQUATE(1125)
+Anchor-02-WFIMG        EQUATE(1126)
+Anchor-03-WFIMG        EQUATE(1127)
+Anchor-04-WFIMG        EQUATE(1128)
+AndroidIMG        EQUATE(1129)
+AngelIMG        EQUATE(1130)
+Angolan-KwanzaIMG        EQUATE(1131)
+Animation-01IMG        EQUATE(1132)
+Animation-1-WFIMG        EQUATE(1133)
+Animation-02IMG        EQUATE(1134)
+Animation-03IMG        EQUATE(1135)
+Announcement CanIMG        EQUATE(1136)
+Announcement-01IMG        EQUATE(1137)
+Announcement-02IMG        EQUATE(1138)
+Announcement-WFIMG        EQUATE(1139)
+AnnoyedIMG        EQUATE(1140)
+AnonymousIMG        EQUATE(1141)
+Antenna NewIMG        EQUATE(1142)
+Antenna New-WFIMG        EQUATE(1143)
+AntennaIMG        EQUATE(1144)
+Antenna-01-WFIMG        EQUATE(1145)
+Antenna-WFIMG        EQUATE(1146)
+Application-01IMG        EQUATE(1147)
+AppointmentIMG        EQUATE(1148)
+Appointment-WFIMG        EQUATE(1149)
+AppsIMG        EQUATE(1150)
+Arch-01IMG        EQUATE(1151)
+Arch-01-WFIMG        EQUATE(1152)
+Arch-02IMG        EQUATE(1153)
+Arch-02-WFIMG        EQUATE(1154)
+ArcheryIMG        EQUATE(1155)
+Archery-WFIMG        EQUATE(1156)
+ArchiveIMG        EQUATE(1157)
+Archive01-WFIMG        EQUATE(1158)
+Archive02-WFIMG        EQUATE(1159)
+Arm Wrestling-WFIMG        EQUATE(1160)
+Armour(1)IMG        EQUATE(1161)
+ArmourIMG        EQUATE(1162)
+Arm-WrestlingIMG        EQUATE(1163)
+Army Private First CIMG        EQUATE(1164)
+Arrow BottomLeft - 0IMG        EQUATE(1165)
+Arrow BottomLeft - 0IMG        EQUATE(1166)
+Arrow BottomLeft - 0IMG        EQUATE(1167)
+Arrow Bottomleft -01IMG        EQUATE(1168)
+Arrow BottomLeft 01-IMG        EQUATE(1169)
+Arrow BottomLeft 02-IMG        EQUATE(1170)
+Arrow BottomLeft 03-IMG        EQUATE(1171)
+Arrow BottomLeft 04-IMG        EQUATE(1172)
+Arrow BottomRight -IMG        EQUATE(1173)
+Arrow BottomRight -IMG        EQUATE(1174)
+Arrow BottomRight -IMG        EQUATE(1175)
+Arrow Bottomright -0IMG        EQUATE(1176)
+Arrow BottomRight 01IMG        EQUATE(1177)
+Arrow Bottomright -0IMG        EQUATE(1178)
+Arrow BottomRight 02IMG        EQUATE(1179)
+Arrow BottomRight 03IMG        EQUATE(1180)
+Arrow BottomRight 04IMG        EQUATE(1181)
+Arrow Down - 01IMG        EQUATE(1182)
+Arrow Down - 02IMG        EQUATE(1183)
+Arrow Down - 03IMG        EQUATE(1184)
+Arrow Down - 04IMG        EQUATE(1185)
+Arrow Down 01-WFIMG        EQUATE(1186)
+Arrow Down -02IMG        EQUATE(1187)
+Arrow Down 02-WFIMG        EQUATE(1188)
+Arrow Down 03-WFIMG        EQUATE(1189)
+Arrow Down 04-WFIMG        EQUATE(1190)
+Arrow Down 05-WFIMG        EQUATE(1191)
+Arrow Down- 06IMG        EQUATE(1192)
+Arrow Down 06-WFIMG        EQUATE(1193)
+Arrow Down 07-WFIMG        EQUATE(1194)
+Arrow down-07IMG        EQUATE(1195)
+Arrow down-08IMG        EQUATE(1196)
+Arrow Down-WFIMG        EQUATE(1197)
+Arrow Left - 01IMG        EQUATE(1198)
+Arrow Left - 02IMG        EQUATE(1199)
+Arrow Left - 03IMG        EQUATE(1200)
+Arrow Left - 04IMG        EQUATE(1201)
+Arrow Left - 05IMG        EQUATE(1202)
+Arrow Left 01-WFIMG        EQUATE(1203)
+Arrow left -02IMG        EQUATE(1204)
+Arrow Left 02-WFIMG        EQUATE(1205)
+Arrow Left 03-WFIMG        EQUATE(1206)
+Arrow Left 04-WFIMG        EQUATE(1207)
+Arrow Left 05-WFIMG        EQUATE(1208)
+Arrow left -06IMG        EQUATE(1209)
+Arrow Left 06-WFIMG        EQUATE(1210)
+Arrow left -07IMG        EQUATE(1211)
+Arrow Left 07-WFIMG        EQUATE(1212)
+Arrow left -08IMG        EQUATE(1213)
+Arrow Left 08-WFIMG        EQUATE(1214)
+Arrow Right - 01IMG        EQUATE(1215)
+Arrow right - 02IMG        EQUATE(1216)
+Arrow Right - 03IMG        EQUATE(1217)
+Arrow Right - 04IMG        EQUATE(1218)
+Arrow Right - 05IMG        EQUATE(1219)
+Arrow Right - 06IMG        EQUATE(1220)
+Arrow right - 07IMG        EQUATE(1221)
+Arrow right - 08IMG        EQUATE(1222)
+Arrow Right 01-WFIMG        EQUATE(1223)
+Arrow Right 02-WFIMG        EQUATE(1224)
+Arrow Right 03-WFIMG        EQUATE(1225)
+Arrow Right 04-WFIMG        EQUATE(1226)
+Arrow Right 05-WFIMG        EQUATE(1227)
+Arrow Right 06-WFIMG        EQUATE(1228)
+Arrow Right 07-WFIMG        EQUATE(1229)
+Arrow Right 08-WFIMG        EQUATE(1230)
+Arrow Topleft - 01IMG        EQUATE(1231)
+Arrow Topleft - 02IMG        EQUATE(1232)
+Arrow Topleft - 03IMG        EQUATE(1233)
+Arrow Topleft -01IMG        EQUATE(1234)
+Arrow TopLeft 01-WFIMG        EQUATE(1235)
+Arrow Topleft -02IMG        EQUATE(1236)
+Arrow TopLeft 02-WFIMG        EQUATE(1237)
+Arrow TopLeft 03-WFIMG        EQUATE(1238)
+Arrow TopLeft 04-WFIMG        EQUATE(1239)
+Arrow Topright - 01IMG        EQUATE(1240)
+Arrow Topright - 02IMG        EQUATE(1241)
+Arrow Topright -01IMG        EQUATE(1242)
+Arrow TopRight 01-WFIMG        EQUATE(1243)
+Arrow Topright -02IMG        EQUATE(1244)
+Arrow TopRight 02-WFIMG        EQUATE(1245)
+Arrow TopRight 03-WFIMG        EQUATE(1246)
+Arrow TopRight 04-WFIMG        EQUATE(1247)
+Arrow up - 02IMG        EQUATE(1248)
+Arrow Up - 06IMG        EQUATE(1249)
+Arrow Up - 07IMG        EQUATE(1250)
+Arrow Up - 08IMG        EQUATE(1251)
+Arrow Up -01IMG        EQUATE(1252)
+Arrow Up 01-WFIMG        EQUATE(1253)
+Arrow Up -02IMG        EQUATE(1254)
+Arrow Up 02-WFIMG        EQUATE(1255)
+Arrow Up -03IMG        EQUATE(1256)
+Arrow Up -04IMG        EQUATE(1257)
+Arrow Up -05IMG        EQUATE(1258)
+Arrow -WFIMG        EQUATE(1259)
+ArrowIMG        EQUATE(1260)
+Arrow-09IMG        EQUATE(1261)
+Arrow-ExpandIMG        EQUATE(1262)
+Arrowhead down-WFIMG        EQUATE(1263)
+Arrowhead Right1-WFIMG        EQUATE(1264)
+Arrowhead Top-WFIMG        EQUATE(1265)
+Arrowhead-01IMG        EQUATE(1266)
+Arrowhead-DownIMG        EQUATE(1267)
+Arrowhead-Down-01IMG        EQUATE(1268)
+Arrowhead-LeftIMG        EQUATE(1269)
+Arrowhead-Left-01IMG        EQUATE(1270)
+ArrowheadLeft1-WFIMG        EQUATE(1271)
+ArrowheadLeft-WFIMG        EQUATE(1272)
+Arrowhead-RightIMG        EQUATE(1273)
+Arrowhead-Right-01IMG        EQUATE(1274)
+ArrowHeadRight-WFIMG        EQUATE(1275)
+Arrowhead-TopIMG        EQUATE(1276)
+Arrowhead-UpIMG        EQUATE(1277)
+ArrowUp-WFIMG        EQUATE(1278)
+Arrow-WFIMG        EQUATE(1279)
+Aruban-FlorinIMG        EQUATE(1280)
+AssignIMG        EQUATE(1281)
+Assign-WFIMG        EQUATE(1282)
+AssistIMG        EQUATE(1283)
+Assist-WFIMG        EQUATE(1284)
+Astro-AquariusIMG        EQUATE(1285)
+Astro-AriesIMG        EQUATE(1286)
+Astro-CancerIMG        EQUATE(1287)
+Astro-CapricornIMG        EQUATE(1288)
+Astro-GeminiIMG        EQUATE(1289)
+Astro-LeoIMG        EQUATE(1290)
+Astro-LibraIMG        EQUATE(1291)
+Astrologer(1)IMG        EQUATE(1292)
+AstrologerIMG        EQUATE(1293)
+Astro-PiscesIMG        EQUATE(1294)
+Astro-SagittariusIMG        EQUATE(1295)
+Astro-ScorpioIMG        EQUATE(1296)
+Astro-TaurusIMG        EQUATE(1297)
+Astro-VirgoIMG        EQUATE(1298)
+AthleteIMG        EQUATE(1299)
+AthleticsIMG        EQUATE(1300)
+Athletics-WFIMG        EQUATE(1301)
+ATMIMG        EQUATE(1302)
+ATM-01IMG        EQUATE(1303)
+ATM-01-WFIMG        EQUATE(1304)
+ATM-02(1)IMG        EQUATE(1305)
+ATM-02IMG        EQUATE(1306)
+ATM-02-WFIMG        EQUATE(1307)
+ATM-03IMG        EQUATE(1308)
+ATM-03-WFIMG        EQUATE(1309)
+ATM-04IMG        EQUATE(1310)
+Attachment - 01IMG        EQUATE(1311)
+Attachment - 02IMG        EQUATE(1312)
+Attachment - 03IMG        EQUATE(1313)
+Attachment-01-WFIMG        EQUATE(1314)
+Attachment-02-WFIMG        EQUATE(1315)
+Attachments-RemoveIMG        EQUATE(1316)
+Attach-WFIMG        EQUATE(1317)
+ATVIMG        EQUATE(1318)
+ATV-WFIMG        EQUATE(1319)
+AuctionIMG        EQUATE(1320)
+Auction1-WFIMG        EQUATE(1321)
+Auction-WFIMG        EQUATE(1322)
+Audio - Wave-02-WFIMG        EQUATE(1323)
+Audio Disk-WFIMG        EQUATE(1324)
+Audio Mixer-01-WFIMG        EQUATE(1325)
+Audio Mixer-02-WFIMG        EQUATE(1326)
+Audio Wave-WFIMG        EQUATE(1327)
+Audio-DiskIMG        EQUATE(1328)
+Audio-KnobIMG        EQUATE(1329)
+Audio-Knob-WFIMG        EQUATE(1330)
+Audio-Mixer-01IMG        EQUATE(1331)
+Audio-Mixer-02IMG        EQUATE(1332)
+Audio-Mixer-03IMG        EQUATE(1333)
+Audio-Mixer-04IMG        EQUATE(1334)
+Audio-Mixer-04-WFIMG        EQUATE(1335)
+Audio-Wave-03IMG        EQUATE(1336)
+Audio-Wave-03-WFIMG        EQUATE(1337)
+Audip-Wave-01IMG        EQUATE(1338)
+Audip-Wave-02IMG        EQUATE(1339)
+AuditIMG        EQUATE(1340)
+Audit-WFIMG        EQUATE(1341)
+Australian-DollarIMG        EQUATE(1342)
+Auto windscreen wipiIMG        EQUATE(1343)
+Auto windscreen wipiIMG        EQUATE(1344)
+Auto-ArchiveIMG        EQUATE(1345)
+AutoCompleteTextBox(IMG        EQUATE(1346)
+AutoCompleteTextBoxIMG        EQUATE(1347)
+Automatic gearbox waIMG        EQUATE(1348)
+Automatic gearbox waIMG        EQUATE(1349)
+Automatic-Layout(1)IMG        EQUATE(1350)
+Automatic-LayoutIMG        EQUATE(1351)
+Auto-Size-Columns(1)IMG        EQUATE(1352)
+Auto-Size-ColumnsIMG        EQUATE(1353)
+AvalancheIMG        EQUATE(1354)
+Award - 01IMG        EQUATE(1355)
+Award -02IMG        EQUATE(1356)
+Award -03IMG        EQUATE(1357)
+Award -04IMG        EQUATE(1358)
+Award -05IMG        EQUATE(1359)
+Award -06IMG        EQUATE(1360)
+Award1-WFIMG        EQUATE(1361)
+Award02-WFIMG        EQUATE(1362)
+Award2-WFIMG        EQUATE(1363)
+Award4-WFIMG        EQUATE(1364)
+Award5-WFIMG        EQUATE(1365)
+Award6-WFIMG        EQUATE(1366)
+Award-WFIMG        EQUATE(1367)
+AxeIMG        EQUATE(1368)
+Baby-01IMG        EQUATE(1369)
+Baby-02IMG        EQUATE(1370)
+Baby-03IMG        EQUATE(1371)
+Baby-04IMG        EQUATE(1372)
+Backward01-WFIMG        EQUATE(1373)
+Backward-WFIMG        EQUATE(1374)
+Back-WFIMG        EQUATE(1375)
+BaggageIMG        EQUATE(1376)
+Baggage-WFIMG        EQUATE(1377)
+Bahamian-DollarIMG        EQUATE(1378)
+Bahraini-DinarIMG        EQUATE(1379)
+Balance-01IMG        EQUATE(1380)
+Balance-02IMG        EQUATE(1381)
+Balance-03IMG        EQUATE(1382)
+Balance-04IMG        EQUATE(1383)
+Ball - 01IMG        EQUATE(1384)
+Ball - 02IMG        EQUATE(1385)
+Ball - 03IMG        EQUATE(1386)
+Ball - 04IMG        EQUATE(1387)
+Ball - 06IMG        EQUATE(1388)
+Ball - 07IMG        EQUATE(1389)
+Ball 1-efIMG        EQUATE(1390)
+Ball 2-WFIMG        EQUATE(1391)
+Ball 3-WFIMG        EQUATE(1392)
+Ball 4-WFIMG        EQUATE(1393)
+Ball Movement-01IMG        EQUATE(1394)
+Ball Movement-02IMG        EQUATE(1395)
+Ball Movement-03IMG        EQUATE(1396)
+Ball Movement-04IMG        EQUATE(1397)
+Ball5-WFIMG        EQUATE(1398)
+Ball6-WFIMG        EQUATE(1399)
+Ball7-WFIMG        EQUATE(1400)
+Ball8-WFIMG        EQUATE(1401)
+Ball9-WFIMG        EQUATE(1402)
+Balloon-01IMG        EQUATE(1403)
+Balloon-02IMG        EQUATE(1404)
+Balloon-03IMG        EQUATE(1405)
+Ball-WFIMG        EQUATE(1406)
+Band Aid-01IMG        EQUATE(1407)
+Band Aid-01-WFIMG        EQUATE(1408)
+Band Aid-02-WFIMG        EQUATE(1409)
+Band Aid-03-WFIMG        EQUATE(1410)
+Band aid-04-WFIMG        EQUATE(1411)
+Band-AidIMG        EQUATE(1412)
+Band-Aid-02IMG        EQUATE(1413)
+Bangladeshi-TakaIMG        EQUATE(1414)
+BankIMG        EQUATE(1415)
+Bank-01-WFIMG        EQUATE(1416)
+Banker-01-WFIMG        EQUATE(1417)
+Banker-02-WFIMG        EQUATE(1418)
+Banking-TransactionIMG        EQUATE(1419)
+Bank-WFIMG        EQUATE(1420)
+Bar Chart - 01(1)IMG        EQUATE(1421)
+Bar Chart - 01IMG        EQUATE(1422)
+Bar Chart - 03(1)IMG        EQUATE(1423)
+Bar Chart - 03IMG        EQUATE(1424)
+Bar Chart - 04(1)IMG        EQUATE(1425)
+Bar Chart - 04IMG        EQUATE(1426)
+Bar Graph - 01(1)IMG        EQUATE(1427)
+Bar Graph - 01IMG        EQUATE(1428)
+BarIMG        EQUATE(1429)
+Barbadian-DollarIMG        EQUATE(1430)
+BarberIMG        EQUATE(1431)
+Bar-Cha
+!Paste this on your other declarations and call it on opening the window
+SV                  CLASS()
+CreateStaticRegions     PROCEDURE()
+ManageStaticRegions     PROCEDURE()
+END
+
+SV.CreateStaticRegions        PROCEDURE()
+
+ CODE 
+ 
+        CREATE(3D Glass - 02IMG, CREATE:Region,)
+        3D Glass - 02IMG{PROP:Imm}=TRUE
+        3D Glass - 02IMG{PROP:Use}=3D Glass - 02IMG
+        3D Glass - 02IMG{PROP:Height}=?3D Glass - 02IMG{PROP:Height}
+        3D Glass - 02IMG{PROP:Width}=?3D Glass - 02IMG{PROP:Width}
+        3D Glass - 02IMG{PROP:XPos}=?3D Glass - 02IMG{PROP:XPos  }
+        3D Glass - 02IMG{PROP:YPos}=?3D Glass - 02IMG{PROP:YPos  }
+        3D Glass - 02IMG{PROP:Hide}=FALSE
+        3D Glass - 02IMG{PROP:Cursor}=''
+
+        CREATE(3D Glass - 02-WFIMG, CREATE:Region,)
+        3D Glass - 02-WFIMG{PROP:Imm}=TRUE
+        3D Glass - 02-WFIMG{PROP:Use}=3D Glass - 02-WFIMG
+        3D Glass - 02-WFIMG{PROP:Height}=?3D Glass - 02-WFIMG{PROP:Height}
+        3D Glass - 02-WFIMG{PROP:Width}=?3D Glass - 02-WFIMG{PROP:Width}
+        3D Glass - 02-WFIMG{PROP:XPos}=?3D Glass - 02-WFIMG{PROP:XPos  }
+        3D Glass - 02-WFIMG{PROP:YPos}=?3D Glass - 02-WFIMG{PROP:YPos  }
+        3D Glass - 02-WFIMG{PROP:Hide}=FALSE
+        3D Glass - 02-WFIMG{PROP:Cursor}=''
+
+        CREATE(3D Glass -01IMG, CREATE:Region,)
+        3D Glass -01IMG{PROP:Imm}=TRUE
+        3D Glass -01IMG{PROP:Use}=3D Glass -01IMG
+        3D Glass -01IMG{PROP:Height}=?3D Glass -01IMG{PROP:Height}
+        3D Glass -01IMG{PROP:Width}=?3D Glass -01IMG{PROP:Width}
+        3D Glass -01IMG{PROP:XPos}=?3D Glass -01IMG{PROP:XPos  }
+        3D Glass -01IMG{PROP:YPos}=?3D Glass -01IMG{PROP:YPos  }
+        3D Glass -01IMG{PROP:Hide}=FALSE
+        3D Glass -01IMG{PROP:Cursor}=''
+
+        CREATE(3D GlassIMG, CREATE:Region,)
+        3D GlassIMG{PROP:Imm}=TRUE
+        3D GlassIMG{PROP:Use}=3D GlassIMG
+        3D GlassIMG{PROP:Height}=?3D GlassIMG{PROP:Height}
+        3D GlassIMG{PROP:Width}=?3D GlassIMG{PROP:Width}
+        3D GlassIMG{PROP:XPos}=?3D GlassIMG{PROP:XPos  }
+        3D GlassIMG{PROP:YPos}=?3D GlassIMG{PROP:YPos  }
+        3D GlassIMG{PROP:Hide}=FALSE
+        3D GlassIMG{PROP:Cursor}=''
+
+        CREATE(3D Glass-WFIMG, CREATE:Region,)
+        3D Glass-WFIMG{PROP:Imm}=TRUE
+        3D Glass-WFIMG{PROP:Use}=3D Glass-WFIMG
+        3D Glass-WFIMG{PROP:Height}=?3D Glass-WFIMG{PROP:Height}
+        3D Glass-WFIMG{PROP:Width}=?3D Glass-WFIMG{PROP:Width}
+        3D Glass-WFIMG{PROP:XPos}=?3D Glass-WFIMG{PROP:XPos  }
+        3D Glass-WFIMG{PROP:YPos}=?3D Glass-WFIMG{PROP:YPos  }
+        3D Glass-WFIMG{PROP:Hide}=FALSE
+        3D Glass-WFIMG{PROP:Cursor}=''
+
+        CREATE(3D-GlassesIMG, CREATE:Region,)
+        3D-GlassesIMG{PROP:Imm}=TRUE
+        3D-GlassesIMG{PROP:Use}=3D-GlassesIMG
+        3D-GlassesIMG{PROP:Height}=?3D-GlassesIMG{PROP:Height}
+        3D-GlassesIMG{PROP:Width}=?3D-GlassesIMG{PROP:Width}
+        3D-GlassesIMG{PROP:XPos}=?3D-GlassesIMG{PROP:XPos  }
+        3D-GlassesIMG{PROP:YPos}=?3D-GlassesIMG{PROP:YPos  }
+        3D-GlassesIMG{PROP:Hide}=FALSE
+        3D-GlassesIMG{PROP:Cursor}=''
+
+        CREATE(3D-Shape-01IMG, CREATE:Region,)
+        3D-Shape-01IMG{PROP:Imm}=TRUE
+        3D-Shape-01IMG{PROP:Use}=3D-Shape-01IMG
+        3D-Shape-01IMG{PROP:Height}=?3D-Shape-01IMG{PROP:Height}
+        3D-Shape-01IMG{PROP:Width}=?3D-Shape-01IMG{PROP:Width}
+        3D-Shape-01IMG{PROP:XPos}=?3D-Shape-01IMG{PROP:XPos  }
+        3D-Shape-01IMG{PROP:YPos}=?3D-Shape-01IMG{PROP:YPos  }
+        3D-Shape-01IMG{PROP:Hide}=FALSE
+        3D-Shape-01IMG{PROP:Cursor}=''
+
+        CREATE(3D-Shape-02IMG, CREATE:Region,)
+        3D-Shape-02IMG{PROP:Imm}=TRUE
+        3D-Shape-02IMG{PROP:Use}=3D-Shape-02IMG
+        3D-Shape-02IMG{PROP:Height}=?3D-Shape-02IMG{PROP:Height}
+        3D-Shape-02IMG{PROP:Width}=?3D-Shape-02IMG{PROP:Width}
+        3D-Shape-02IMG{PROP:XPos}=?3D-Shape-02IMG{PROP:XPos  }
+        3D-Shape-02IMG{PROP:YPos}=?3D-Shape-02IMG{PROP:YPos  }
+        3D-Shape-02IMG{PROP:Hide}=FALSE
+        3D-Shape-02IMG{PROP:Cursor}=''
+
+        CREATE(10 fingers TapIMG, CREATE:Region,)
+        10 fingers TapIMG{PROP:Imm}=TRUE
+        10 fingers TapIMG{PROP:Use}=10 fingers TapIMG
+        10 fingers TapIMG{PROP:Height}=?10 fingers TapIMG{PROP:Height}
+        10 fingers TapIMG{PROP:Width}=?10 fingers TapIMG{PROP:Width}
+        10 fingers TapIMG{PROP:XPos}=?10 fingers TapIMG{PROP:XPos  }
+        10 fingers TapIMG{PROP:YPos}=?10 fingers TapIMG{PROP:YPos  }
+        10 fingers TapIMG{PROP:Hide}=FALSE
+        10 fingers TapIMG{PROP:Cursor}=''
+
+        CREATE(AbacusIMG, CREATE:Region,)
+        AbacusIMG{PROP:Imm}=TRUE
+        AbacusIMG{PROP:Use}=AbacusIMG
+        AbacusIMG{PROP:Height}=?AbacusIMG{PROP:Height}
+        AbacusIMG{PROP:Width}=?AbacusIMG{PROP:Width}
+        AbacusIMG{PROP:XPos}=?AbacusIMG{PROP:XPos  }
+        AbacusIMG{PROP:YPos}=?AbacusIMG{PROP:YPos  }
+        AbacusIMG{PROP:Hide}=FALSE
+        AbacusIMG{PROP:Cursor}=''
+
+        CREATE(Abacus-01-WFIMG, CREATE:Region,)
+        Abacus-01-WFIMG{PROP:Imm}=TRUE
+        Abacus-01-WFIMG{PROP:Use}=Abacus-01-WFIMG
+        Abacus-01-WFIMG{PROP:Height}=?Abacus-01-WFIMG{PROP:Height}
+        Abacus-01-WFIMG{PROP:Width}=?Abacus-01-WFIMG{PROP:Width}
+        Abacus-01-WFIMG{PROP:XPos}=?Abacus-01-WFIMG{PROP:XPos  }
+        Abacus-01-WFIMG{PROP:YPos}=?Abacus-01-WFIMG{PROP:YPos  }
+        Abacus-01-WFIMG{PROP:Hide}=FALSE
+        Abacus-01-WFIMG{PROP:Cursor}=''
+
+        CREATE(ABSIMG, CREATE:Region,)
+        ABSIMG{PROP:Imm}=TRUE
+        ABSIMG{PROP:Use}=ABSIMG
+        ABSIMG{PROP:Height}=?ABSIMG{PROP:Height}
+        ABSIMG{PROP:Width}=?ABSIMG{PROP:Width}
+        ABSIMG{PROP:XPos}=?ABSIMG{PROP:XPos  }
+        ABSIMG{PROP:YPos}=?ABSIMG{PROP:YPos  }
+        ABSIMG{PROP:Hide}=FALSE
+        ABSIMG{PROP:Cursor}=''
+
+        CREATE(ABS-WFIMG, CREATE:Region,)
+        ABS-WFIMG{PROP:Imm}=TRUE
+        ABS-WFIMG{PROP:Use}=ABS-WFIMG
+        ABS-WFIMG{PROP:Height}=?ABS-WFIMG{PROP:Height}
+        ABS-WFIMG{PROP:Width}=?ABS-WFIMG{PROP:Width}
+        ABS-WFIMG{PROP:XPos}=?ABS-WFIMG{PROP:XPos  }
+        ABS-WFIMG{PROP:YPos}=?ABS-WFIMG{PROP:YPos  }
+        ABS-WFIMG{PROP:Hide}=FALSE
+        ABS-WFIMG{PROP:Cursor}=''
+
+        CREATE(AcceptIMG, CREATE:Region,)
+        AcceptIMG{PROP:Imm}=TRUE
+        AcceptIMG{PROP:Use}=AcceptIMG
+        AcceptIMG{PROP:Height}=?AcceptIMG{PROP:Height}
+        AcceptIMG{PROP:Width}=?AcceptIMG{PROP:Width}
+        AcceptIMG{PROP:XPos}=?AcceptIMG{PROP:XPos  }
+        AcceptIMG{PROP:YPos}=?AcceptIMG{PROP:YPos  }
+        AcceptIMG{PROP:Hide}=FALSE
+        AcceptIMG{PROP:Cursor}=''
+
+        CREATE(AccessIMG, CREATE:Region,)
+        AccessIMG{PROP:Imm}=TRUE
+        AccessIMG{PROP:Use}=AccessIMG
+        AccessIMG{PROP:Height}=?AccessIMG{PROP:Height}
+        AccessIMG{PROP:Width}=?AccessIMG{PROP:Width}
+        AccessIMG{PROP:XPos}=?AccessIMG{PROP:XPos  }
+        AccessIMG{PROP:YPos}=?AccessIMG{PROP:YPos  }
+        AccessIMG{PROP:Hide}=FALSE
+        AccessIMG{PROP:Cursor}=''
+
+        CREATE(AccessibilityIMG, CREATE:Region,)
+        AccessibilityIMG{PROP:Imm}=TRUE
+        AccessibilityIMG{PROP:Use}=AccessibilityIMG
+        AccessibilityIMG{PROP:Height}=?AccessibilityIMG{PROP:Height}
+        AccessibilityIMG{PROP:Width}=?AccessibilityIMG{PROP:Width}
+        AccessibilityIMG{PROP:XPos}=?AccessibilityIMG{PROP:XPos  }
+        AccessibilityIMG{PROP:YPos}=?AccessibilityIMG{PROP:YPos  }
+        AccessibilityIMG{PROP:Hide}=FALSE
+        AccessibilityIMG{PROP:Cursor}=''
+
+        CREATE(Accessibility-WFIMG, CREATE:Region,)
+        Accessibility-WFIMG{PROP:Imm}=TRUE
+        Accessibility-WFIMG{PROP:Use}=Accessibility-WFIMG
+        Accessibility-WFIMG{PROP:Height}=?Accessibility-WFIMG{PROP:Height}
+        Accessibility-WFIMG{PROP:Width}=?Accessibility-WFIMG{PROP:Width}
+        Accessibility-WFIMG{PROP:XPos}=?Accessibility-WFIMG{PROP:XPos  }
+        Accessibility-WFIMG{PROP:YPos}=?Accessibility-WFIMG{PROP:YPos  }
+        Accessibility-WFIMG{PROP:Hide}=FALSE
+        Accessibility-WFIMG{PROP:Cursor}=''
+
+        CREATE(Access-NewIMG, CREATE:Region,)
+        Access-NewIMG{PROP:Imm}=TRUE
+        Access-NewIMG{PROP:Use}=Access-NewIMG
+        Access-NewIMG{PROP:Height}=?Access-NewIMG{PROP:Height}
+        Access-NewIMG{PROP:Width}=?Access-NewIMG{PROP:Width}
+        Access-NewIMG{PROP:XPos}=?Access-NewIMG{PROP:XPos  }
+        Access-NewIMG{PROP:YPos}=?Access-NewIMG{PROP:YPos  }
+        Access-NewIMG{PROP:Hide}=FALSE
+        Access-NewIMG{PROP:Cursor}=''
+
+        CREATE(Accounting-01IMG, CREATE:Region,)
+        Accounting-01IMG{PROP:Imm}=TRUE
+        Accounting-01IMG{PROP:Use}=Accounting-01IMG
+        Accounting-01IMG{PROP:Height}=?Accounting-01IMG{PROP:Height}
+        Accounting-01IMG{PROP:Width}=?Accounting-01IMG{PROP:Width}
+        Accounting-01IMG{PROP:XPos}=?Accounting-01IMG{PROP:XPos  }
+        Accounting-01IMG{PROP:YPos}=?Accounting-01IMG{PROP:YPos  }
+        Accounting-01IMG{PROP:Hide}=FALSE
+        Accounting-01IMG{PROP:Cursor}=''
+
+        CREATE(Accounting-01-WFIMG, CREATE:Region,)
+        Accounting-01-WFIMG{PROP:Imm}=TRUE
+        Accounting-01-WFIMG{PROP:Use}=Accounting-01-WFIMG
+        Accounting-01-WFIMG{PROP:Height}=?Accounting-01-WFIMG{PROP:Height}
+        Accounting-01-WFIMG{PROP:Width}=?Accounting-01-WFIMG{PROP:Width}
+        Accounting-01-WFIMG{PROP:XPos}=?Accounting-01-WFIMG{PROP:XPos  }
+        Accounting-01-WFIMG{PROP:YPos}=?Accounting-01-WFIMG{PROP:YPos  }
+        Accounting-01-WFIMG{PROP:Hide}=FALSE
+        Accounting-01-WFIMG{PROP:Cursor}=''
+
+        CREATE(Accounting-02IMG, CREATE:Region,)
+        Accounting-02IMG{PROP:Imm}=TRUE
+        Accounting-02IMG{PROP:Use}=Accounting-02IMG
+        Accounting-02IMG{PROP:Height}=?Accounting-02IMG{PROP:Height}
+        Accounting-02IMG{PROP:Width}=?Accounting-02IMG{PROP:Width}
+        Accounting-02IMG{PROP:XPos}=?Accounting-02IMG{PROP:XPos  }
+        Accounting-02IMG{PROP:YPos}=?Accounting-02IMG{PROP:YPos  }
+        Accounting-02IMG{PROP:Hide}=FALSE
+        Accounting-02IMG{PROP:Cursor}=''
+
+        CREATE(Accounting-02-WFIMG, CREATE:Region,)
+        Accounting-02-WFIMG{PROP:Imm}=TRUE
+        Accounting-02-WFIMG{PROP:Use}=Accounting-02-WFIMG
+        Accounting-02-WFIMG{PROP:Height}=?Accounting-02-WFIMG{PROP:Height}
+        Accounting-02-WFIMG{PROP:Width}=?Accounting-02-WFIMG{PROP:Width}
+        Accounting-02-WFIMG{PROP:XPos}=?Accounting-02-WFIMG{PROP:XPos  }
+        Accounting-02-WFIMG{PROP:YPos}=?Accounting-02-WFIMG{PROP:YPos  }
+        Accounting-02-WFIMG{PROP:Hide}=FALSE
+        Accounting-02-WFIMG{PROP:Cursor}=''
+
+        CREATE(Account-PayableIMG, CREATE:Region,)
+        Account-PayableIMG{PROP:Imm}=TRUE
+        Account-PayableIMG{PROP:Use}=Account-PayableIMG
+        Account-PayableIMG{PROP:Height}=?Account-PayableIMG{PROP:Height}
+        Account-PayableIMG{PROP:Width}=?Account-PayableIMG{PROP:Width}
+        Account-PayableIMG{PROP:XPos}=?Account-PayableIMG{PROP:XPos  }
+        Account-PayableIMG{PROP:YPos}=?Account-PayableIMG{PROP:YPos  }
+        Account-PayableIMG{PROP:Hide}=FALSE
+        Account-PayableIMG{PROP:Cursor}=''
+
+        CREATE(Account-Payable-WFIMG, CREATE:Region,)
+        Account-Payable-WFIMG{PROP:Imm}=TRUE
+        Account-Payable-WFIMG{PROP:Use}=Account-Payable-WFIMG
+        Account-Payable-WFIMG{PROP:Height}=?Account-Payable-WFIMG{PROP:Height}
+        Account-Payable-WFIMG{PROP:Width}=?Account-Payable-WFIMG{PROP:Width}
+        Account-Payable-WFIMG{PROP:XPos}=?Account-Payable-WFIMG{PROP:XPos  }
+        Account-Payable-WFIMG{PROP:YPos}=?Account-Payable-WFIMG{PROP:YPos  }
+        Account-Payable-WFIMG{PROP:Hide}=FALSE
+        Account-Payable-WFIMG{PROP:Cursor}=''
+
+        CREATE(Accounts-BookIMG, CREATE:Region,)
+        Accounts-BookIMG{PROP:Imm}=TRUE
+        Accounts-BookIMG{PROP:Use}=Accounts-BookIMG
+        Accounts-BookIMG{PROP:Height}=?Accounts-BookIMG{PROP:Height}
+        Accounts-BookIMG{PROP:Width}=?Accounts-BookIMG{PROP:Width}
+        Accounts-BookIMG{PROP:XPos}=?Accounts-BookIMG{PROP:XPos  }
+        Accounts-BookIMG{PROP:YPos}=?Accounts-BookIMG{PROP:YPos  }
+        Accounts-BookIMG{PROP:Hide}=FALSE
+        Accounts-BookIMG{PROP:Cursor}=''
+
+        CREATE(Accounts-Book-WFIMG, CREATE:Region,)
+        Accounts-Book-WFIMG{PROP:Imm}=TRUE
+        Accounts-Book-WFIMG{PROP:Use}=Accounts-Book-WFIMG
+        Accounts-Book-WFIMG{PROP:Height}=?Accounts-Book-WFIMG{PROP:Height}
+        Accounts-Book-WFIMG{PROP:Width}=?Accounts-Book-WFIMG{PROP:Width}
+        Accounts-Book-WFIMG{PROP:XPos}=?Accounts-Book-WFIMG{PROP:XPos  }
+        Accounts-Book-WFIMG{PROP:YPos}=?Accounts-Book-WFIMG{PROP:YPos  }
+        Accounts-Book-WFIMG{PROP:Hide}=FALSE
+        Accounts-Book-WFIMG{PROP:Cursor}=''
+
+        CREATE(Accounts-ReceivableIMG, CREATE:Region,)
+        Accounts-ReceivableIMG{PROP:Imm}=TRUE
+        Accounts-ReceivableIMG{PROP:Use}=Accounts-ReceivableIMG
+        Accounts-ReceivableIMG{PROP:Height}=?Accounts-ReceivableIMG{PROP:Height}
+        Accounts-ReceivableIMG{PROP:Width}=?Accounts-ReceivableIMG{PROP:Width}
+        Accounts-ReceivableIMG{PROP:XPos}=?Accounts-ReceivableIMG{PROP:XPos  }
+        Accounts-ReceivableIMG{PROP:YPos}=?Accounts-ReceivableIMG{PROP:YPos  }
+        Accounts-ReceivableIMG{PROP:Hide}=FALSE
+        Accounts-ReceivableIMG{PROP:Cursor}=''
+
+        CREATE(AccupunctureIMG, CREATE:Region,)
+        AccupunctureIMG{PROP:Imm}=TRUE
+        AccupunctureIMG{PROP:Use}=AccupunctureIMG
+        AccupunctureIMG{PROP:Height}=?AccupunctureIMG{PROP:Height}
+        AccupunctureIMG{PROP:Width}=?AccupunctureIMG{PROP:Width}
+        AccupunctureIMG{PROP:XPos}=?AccupunctureIMG{PROP:XPos  }
+        AccupunctureIMG{PROP:YPos}=?AccupunctureIMG{PROP:YPos  }
+        AccupunctureIMG{PROP:Hide}=FALSE
+        AccupunctureIMG{PROP:Cursor}=''
+
+        CREATE(Acorn-NutIMG, CREATE:Region,)
+        Acorn-NutIMG{PROP:Imm}=TRUE
+        Acorn-NutIMG{PROP:Use}=Acorn-NutIMG
+        Acorn-NutIMG{PROP:Height}=?Acorn-NutIMG{PROP:Height}
+        Acorn-NutIMG{PROP:Width}=?Acorn-NutIMG{PROP:Width}
+        Acorn-NutIMG{PROP:XPos}=?Acorn-NutIMG{PROP:XPos  }
+        Acorn-NutIMG{PROP:YPos}=?Acorn-NutIMG{PROP:YPos  }
+        Acorn-NutIMG{PROP:Hide}=FALSE
+        Acorn-NutIMG{PROP:Cursor}=''
+
+        CREATE(Acorn-Nut-WFIMG, CREATE:Region,)
+        Acorn-Nut-WFIMG{PROP:Imm}=TRUE
+        Acorn-Nut-WFIMG{PROP:Use}=Acorn-Nut-WFIMG
+        Acorn-Nut-WFIMG{PROP:Height}=?Acorn-Nut-WFIMG{PROP:Height}
+        Acorn-Nut-WFIMG{PROP:Width}=?Acorn-Nut-WFIMG{PROP:Width}
+        Acorn-Nut-WFIMG{PROP:XPos}=?Acorn-Nut-WFIMG{PROP:XPos  }
+        Acorn-Nut-WFIMG{PROP:YPos}=?Acorn-Nut-WFIMG{PROP:YPos  }
+        Acorn-Nut-WFIMG{PROP:Hide}=FALSE
+        Acorn-Nut-WFIMG{PROP:Cursor}=''
+
+        CREATE(Active Dictionary-WFIMG, CREATE:Region,)
+        Active Dictionary-WFIMG{PROP:Imm}=TRUE
+        Active Dictionary-WFIMG{PROP:Use}=Active Dictionary-WFIMG
+        Active Dictionary-WFIMG{PROP:Height}=?Active Dictionary-WFIMG{PROP:Height}
+        Active Dictionary-WFIMG{PROP:Width}=?Active Dictionary-WFIMG{PROP:Width}
+        Active Dictionary-WFIMG{PROP:XPos}=?Active Dictionary-WFIMG{PROP:XPos  }
+        Active Dictionary-WFIMG{PROP:YPos}=?Active Dictionary-WFIMG{PROP:YPos  }
+        Active Dictionary-WFIMG{PROP:Hide}=FALSE
+        Active Dictionary-WFIMG{PROP:Cursor}=''
+
+        CREATE(Active DirectoryIMG, CREATE:Region,)
+        Active DirectoryIMG{PROP:Imm}=TRUE
+        Active DirectoryIMG{PROP:Use}=Active DirectoryIMG
+        Active DirectoryIMG{PROP:Height}=?Active DirectoryIMG{PROP:Height}
+        Active DirectoryIMG{PROP:Width}=?Active DirectoryIMG{PROP:Width}
+        Active DirectoryIMG{PROP:XPos}=?Active DirectoryIMG{PROP:XPos  }
+        Active DirectoryIMG{PROP:YPos}=?Active DirectoryIMG{PROP:YPos  }
+        Active DirectoryIMG{PROP:Hide}=FALSE
+        Active DirectoryIMG{PROP:Cursor}=''
+
+        CREATE(Acupuncture-WFIMG, CREATE:Region,)
+        Acupuncture-WFIMG{PROP:Imm}=TRUE
+        Acupuncture-WFIMG{PROP:Use}=Acupuncture-WFIMG
+        Acupuncture-WFIMG{PROP:Height}=?Acupuncture-WFIMG{PROP:Height}
+        Acupuncture-WFIMG{PROP:Width}=?Acupuncture-WFIMG{PROP:Width}
+        Acupuncture-WFIMG{PRO
+
+
+!Paste this on  your TakeFieldEvent section SV.ManageStaticRegions()
+
+SV.ManagestaticRegions        PROCEDURE()
+
+       CODE
+
+       IF Field() = 3D Glass - 02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D Glass - 02-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D Glass -01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D GlassIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D Glass-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D-GlassesIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D-Shape-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 3D-Shape-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = 10 fingers TapIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AbacusIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Abacus-01-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = ABSIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = ABS-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AcceptIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AccessIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AccessibilityIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accessibility-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Access-NewIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounting-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounting-01-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounting-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounting-02-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Account-PayableIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Account-Payable-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounts-BookIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounts-Book-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Accounts-ReceivableIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AccupunctureIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Acorn-NutIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Acorn-Nut-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Active Dictionary-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Active DirectoryIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Acupuncture-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add ComputerIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add Computer-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add csv-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add csv-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add csv-02-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add csv-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add Id-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add reminder-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add UserIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AddIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-EarthIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AdditionIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-NewIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-Shield(1)IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-ShieldIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-Shield-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Add-To-CartIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AdminIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-AcrobatIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-DreamweaverIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-IllustratorIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-PDF-Export(1)IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-PDF-ExportIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adobe-PhotoshopIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adress book-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adress book-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Adress book-03IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aero plane-02-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = AeroplaneIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aeroplane-01-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aerosal can-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aerosol CanIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aerosol can1-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aerosol Can-2IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Afghan-AfghaniIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Agreement-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Agreement-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Agreement-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Agricultural-LoanIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Agricultural-Loan-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim-01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim1-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim-02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim2-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim-03IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim3-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim4-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Aim-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air - 01IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air - 02IMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air bagIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air Bag-01-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air Bag-02-WFIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+       IF Field() = Air ConditionerIMG
+                      IF EVENT() = Event:MouseUp
+                              !Do something here
+                      END
+                END
+
+
